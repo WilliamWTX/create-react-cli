@@ -1,0 +1,8 @@
+{
+  "tpl": {
+    "pt_vue": {
+      "url": "https://github.com/facebook/create-react-app.git",
+      "branch": "master"
+    }
+  }
+}
