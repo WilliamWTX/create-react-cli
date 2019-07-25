@@ -1,7 +1,7 @@
 {
   "publish": true,
   "name": "create-react-cli-dev",
-  "version": "1.0.1",
+  "version": "1.0.2",
   "email": "william_wtx@163.com",
   "description": "A Scaffold for Creating Reaction Projects",
   "scripts": {
@@ -10,7 +10,7 @@
     "lint": "echo fake lint"
   },
   "bin": {
-    "create": "bin/create"
+    "create": "bin/create.js"
   },
   "repository": {
     "type": "git",
