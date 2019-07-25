@@ -1,0 +1,32 @@
+{
+  "publish": true,
+  "name": "create-react-cli-dev",
+  "version": "1.0.0",
+  "description": "A Scaffold for Creating Reaction Projects",
+  "main": "src/index.js",
+  "scripts": {
+    "build": "echo fake build",
+    "test": "echo fake test",
+    "lint": "echo fake lint",
+  },
+  "bin": {
+    "node-create": "src/index.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git@github.com/WilliamWTX/create-react-cli.git"
+  },
+  "keywords": [
+    "react"
+  ],
+  "author": "william",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/WilliamWTX/create-react-cli/issues"
+  },
+  "homepage": "https://github.com/WilliamWTX/create-react-cli#readme",
+  "dependencies": {
+    "commander": "^2.20.0",
+    "download-git-repo": "^2.0.0"
+  }
+}

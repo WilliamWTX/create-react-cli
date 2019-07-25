@@ -1,0 +1,7 @@
+# Created by @istudybook/plugin-node-create@1.0.25 on 2018/08/05 06:02
+
+*.iml
+/node_modules
+/.*
+/coverage
+/jest.config.js
